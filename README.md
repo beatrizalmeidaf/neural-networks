@@ -1,6 +1,6 @@
 # Redes Neurais e Deep Learning 🧠
 
-Este repositório foi criado para estudo e implementação de conceitos fundamentais de **Redes Neurais** e **Deep Learning**, com base no material do livro **[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)** de *Michael Nielsen*.
+Esse repositório foi criado para estudo e implementação de conceitos fundamentais de **Redes Neurais** e **Deep Learning**, com base no material do livro **[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)** de *Michael Nielsen*.
 
 ## 🎯 Objetivo
 Explorar e compreender os conceitos teóricos e práticos de redes neurais, incluindo:
