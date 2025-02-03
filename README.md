@@ -1,6 +1,10 @@
 # Redes Neurais e Deep Learning 🧠
 
-Esse repositório foi criado para estudo e implementação de conceitos fundamentais de **Redes Neurais** e **Deep Learning**, com base no material do livro **[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)** de *Michael Nielsen*.
+Esse repositório foi criado para estudo e implementação de conceitos fundamentais de **Redes Neurais** e **Deep Learning**, com base no material do livro **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** de *François Chollet*.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b9cbc75-670d-484d-baa9-7af647263cf7" alt="Deep Learning with Python" width="300">
+</p>
 
 ## 🎯 Objetivo
 Explorar e compreender os conceitos teóricos e práticos de redes neurais, incluindo:
@@ -13,9 +17,9 @@ Explorar e compreender os conceitos teóricos e práticos de redes neurais, incl
 ---
 
 ## 📚 Material de Referência
-O estudo segue como base o livro **"Neural Networks and Deep Learning"**, disponível gratuitamente [aqui](http://neuralnetworksanddeeplearning.com/).  
-Autor: *Michael Nielsen*  
-Descrição: Uma introdução intuitiva e prática ao aprendizado de máquina, redes neurais e deep learning.
+O estudo segue como base o livro **"Deep Learning with Python"**, disponível [aqui](https://www.manning.com/books/deep-learning-with-python).  
+Autor: *François Chollet*  
+Descrição: Um guia abrangente e prático sobre deep learning, escrito pelo criador do Keras.
 
 ---
 
